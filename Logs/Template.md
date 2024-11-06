@@ -1,4 +1,4 @@
-# Daily Progress - YYYY-MM-DD
+# Daily Progress - DD-MM-YYYY
 
 ## General Checklist
 
