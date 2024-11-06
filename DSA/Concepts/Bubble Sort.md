@@ -44,12 +44,6 @@ void bubbleSort(vector<int>& arr) {
 }
 ```
 
-## Complexity Analysis:
-
-- **Best Case**: \( O(n) \) — when the array is already sorted.
-- **Average Case**: \( O(n^2) \) — for random order of elements.
-- **Worst Case**: \( O(n^2) \) — when the array is sorted in reverse order.
-
 ## Link
 
 [Bubble Sort Explanation on GeeksforGeeks](https://www.geeksforgeeks.org/bubble-sort-algorithm/)
