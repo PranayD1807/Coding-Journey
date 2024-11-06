@@ -4,9 +4,10 @@ This repository documents my structured approach to enhancing my skills across c
 
 ## Sections
 
-### 1. Core Programming Foundations
+### 1. Data Structures and Algorithms (DSA)
 
-- **Data Structures and Algorithms (DSA)**: A deep dive into essential DSA concepts and problem-solving skills.
+- **Concepts**: A deep dive into essential DSA concepts.
+- **Problems**: Questions & Solutions with key takeaway
 
 ### 2. Computer Science Fundamentals
 
