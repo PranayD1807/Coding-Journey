@@ -17,7 +17,7 @@
    - The database must remain consistent.
 3. **Isolation**:
    - Multiple transactions can occur concurrently without interfering with each other.
-   - The database ensures that, for every pair of transactions \( T_i \) and \( T_j \), it appears to \( T_i \) that either \( T_j \) finished execution before \( T_i \) started, or \( T_j \) started execution after \( T_i \) finished. Thus, each transaction operates as if it were unaware of other concurrently executing transactions.
+   - The database ensures that, for every pair of transactions Ti and Tj, it appears to Ti that either Tj finished execution before Ti started, or Tj started execution after Ti finished. Thus, each transaction operates as if it were unaware of other concurrently executing transactions.
 4. **Durability**: Once a transaction completes successfully, its changes to the database persist, even in the event of system failures.
 
 ## Transaction States
