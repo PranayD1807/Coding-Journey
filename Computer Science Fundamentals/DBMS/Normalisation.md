@@ -290,5 +290,5 @@ The two tables now satisfy BCNF by eliminating the transitive dependency of `Pro
 
 # Links
 
-https://www.geeksforgeeks.org/normal-forms-in-dbms/
-https://www.youtube.com/watch?v=nweGaymEwGM&list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU&index=12
+- [Normal Forms in DBMS](https://www.geeksforgeeks.org/normal-forms-in-dbms/)
+- [Database Normalization in DBMS (YouTube Video)](https://www.youtube.com/watch?v=nweGaymEwGM&list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU&index=12)
