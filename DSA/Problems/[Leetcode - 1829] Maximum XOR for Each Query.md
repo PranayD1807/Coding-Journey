@@ -89,5 +89,5 @@ public:
 
 ### Complexity Analysis
 
-- **Time Complexity**: \(O(n)\), where \(n\) is the size of `nums`, since we iterate through `nums` once.
-- **Space Complexity**: \(O(n)\), for storing the result in the `ans` vector.
+- **Time Complexity**: $$O(n)$$, where $$n$$ is the size of `nums`, since we iterate through `nums` once.
+- **Space Complexity**: $$O(n)$$, for storing the result in the `ans` vector.

@@ -87,5 +87,5 @@ The array can be `[7, 15]` where:
 
 ### Complexity Analysis
 
-- **Time Complexity**: \( O(\log n) \), because we iterate over the bits of \( n \) (which is proportional to \( \log n \)).
-- **Space Complexity**: \( O(1) \), since we only use a constant amount of extra space.
+- **Time Complexity**: $$O(Log(n))$$, because we iterate over the bits of $$n$$ (which is proportional to $$OLog(n)$$.
+- **Space Complexity**: $$O(1)$$, since we only use a constant amount of extra space.
