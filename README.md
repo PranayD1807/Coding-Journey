@@ -36,6 +36,14 @@ This repository documents my structured approach to enhancing my skills across c
 
 ---
 
+## Daily Logs
+
+![Daily Logs Google Sheet](https://docs.google.com/spreadsheets/d/1a6_q5jzOy9s4xxs_oSpXSh1Qzy6E_DTdiBOJYW_p5iE/edit?usp=sharing)
+
+## Jobs Tracking
+
+![Jobs Tracking](https://docs.google.com/spreadsheets/d/11VTlhv4iKLL4snOY5gMug-Vk0xAgx9pcmexZ8VDrhBY/edit?usp=sharing)
+
 ## Structure
 
 Each topic will have its own directory with resources, notes, and code samples. Consistent progress will be tracked through completion milestones and regular updates.
